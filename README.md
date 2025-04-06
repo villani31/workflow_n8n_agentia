@@ -1,4 +1,4 @@
-# 🤖 Workflow com Agente de IA no n8n
+# Workflow com Agente de IA no n8n
 
 Este repositório demonstra como utilizar um **Agente de IA integrado ao n8n** para realizar consultas inteligentes em um banco de dados PostgreSQL, usando como exemplo uma tabela chamada `carros`.
 
@@ -42,6 +42,7 @@ Este é apenas um exemplo. A tabela contém as seguintes colunas:
 - `ano` (inteiro)
 - `valor` (decimal)
 
+![Exemplo_Tabela](./tabela_carros.png)
 ---
 
 ## 💼 Aplicações para Negócios
@@ -62,9 +63,3 @@ Os Agentes de IA no n8n permitem que você conecte linguagem natural (como pergu
 - Respostas em tempo real com dados atualizados
 - Escalável para múltiplos domínios de negócio
 - Fácil de integrar com outros sistemas via n8n
-
----
-
-## 📩 Fale Comigo
-
-Se quiser saber mais ou adaptar esse modelo ao seu negócio, fique à vontade para abrir uma issue ou me contatar via LinkedIn!
