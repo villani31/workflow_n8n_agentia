@@ -36,6 +36,7 @@ Abaixo está o diagrama do workflow implementado no n8n:
    - O agente interpreta a pergunta, gera a SQL correta e retorna os dados diretamente da tabela `carros`.
   
    - Exemplo de pergunta e resposta:
+     
      ![Exemplo](./exemplo.png)
 
 ---
