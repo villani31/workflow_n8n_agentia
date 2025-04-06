@@ -70,3 +70,11 @@ Os Agentes de IA no n8n permitem que você conecte linguagem natural (como pergu
 - Respostas em tempo real com dados atualizados
 - Escalável para múltiplos domínios de negócio
 - Fácil de integrar com outros sistemas via n8n
+
+---
+
+## Para conhecer mais sobre meus projetos:
+
+**Links:**
+* [LinkedIn](https://www.linkedin.com/in/thiagovillani)
+* [Portfólio de Projetos](https://github.com/villani31/Data_Science)
