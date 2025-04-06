@@ -31,7 +31,7 @@ Abaixo está o diagrama do workflow implementado no n8n:
 
 4. **Exemplo Prático**
    - Um usuário pode perguntar:
-     > "Quais são os carros vermelhos disponíveis no estoque?"
+     > "Quais são os carros vermelhos disponíveis no estoque?",
      > "Quantos carros eu tenho cadastrado em meu banco de dados?"
    - O agente interpreta a pergunta, gera a SQL correta e retorna os dados diretamente da tabela `carros`.
   
