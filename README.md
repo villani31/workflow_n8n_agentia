@@ -17,7 +17,7 @@ Abaixo está o diagrama do workflow implementado no [n8n](https://n8n.io):
 
 2. **AI Agent (OpenAI Functions Agent)**
    - O agente de IA atua como cérebro do fluxo. Ele entende a intenção da mensagem e decide que ações tomar, usando:
-     - **Chat Model (GPT-4)** para interpretar a mensagem.
+     - **Chat Model (GPT-4o-mini)** para interpretar a mensagem.
      - **Memória de Chat** para manter contexto de conversas anteriores.
      - **Ferramentas** integradas ao agente para executar ações como consultar banco de dados.
 
@@ -30,7 +30,11 @@ Abaixo está o diagrama do workflow implementado no [n8n](https://n8n.io):
 4. **Exemplo Prático**
    - Um usuário pode perguntar:
      > "Quais são os carros vermelhos disponíveis no estoque?"
+     > "Quantos carros eu tenho cadastrado em meu banco de dados?"
    - O agente interpreta a pergunta, gera a SQL correta e retorna os dados diretamente da tabela `carros`.
+  
+   - Exemplo de pergunta e resposta:
+     ![Exemplo](./exemplo.png)
 
 ---
 
