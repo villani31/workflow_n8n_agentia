@@ -2,13 +2,13 @@
 
 Este repositório demonstra como utilizar um **Agente de IA integrado ao n8n** para realizar consultas inteligentes em um banco de dados PostgreSQL, usando como exemplo uma tabela chamada `carros`.
 
-O n8n é uma plataforma de automação de fluxos de trabalho que permite criar sequências de tarefas automatizadas.
+O [n8n](https://n8n.io) é uma plataforma de automação de fluxos de trabalho que permite criar sequências de tarefas automatizadas.
 
 ---
 
 ## 🔧 Como funciona o Workflow
 
-Abaixo está o diagrama do workflow implementado no [n8n](https://n8n.io):
+Abaixo está o diagrama do workflow implementado no n8n:
 
 ![Workflow](./workflow01.png)
 
